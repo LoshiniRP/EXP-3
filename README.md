@@ -1,8 +1,6 @@
-# EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
+# EXPT NO: 3 STAIR CASE WIRING                     
 
- 
-AIM
+## AIM:
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
 
@@ -20,7 +18,7 @@ Quantity
 7	Round block	-	1 No.
 
 
-Theory:
+## THEORY:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
@@ -38,6 +36,7 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
+## TABULATION:
 
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
@@ -46,5 +45,5 @@ Cross connection: CIRCUIT DIAGRAM:
 
 Tabulation:2
 
-RESULT:
+## RESULT:
 Thus the staircase wiring is connected and tested.
