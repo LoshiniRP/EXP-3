@@ -38,10 +38,14 @@ switch2.
 
 ## TABULATION:
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: 
+
+## CIRCUIT DIAGRAM: 
 Tabulation:1
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: 
+
+## CIRCUIT DIAGRAM:
 
 Tabulation:2
 
